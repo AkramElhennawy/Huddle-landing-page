@@ -24,7 +24,7 @@ header{
 }
 
 header img{
-    padding-bottom: 40px;  
+    padding-bottom: 80px;  
     width: 210px; 
 }
 
@@ -32,6 +32,7 @@ header img{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-bottom: 50px;
 }
 
 .right-section{
@@ -136,6 +137,7 @@ footer{
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        padding-bottom: 0;
     }
 
     header img{
